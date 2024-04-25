@@ -17,10 +17,10 @@ const QuizHeader = ({name}) => {
     }
 
     return (
-    <div className='header h-40 flex items-end pl-8 pt-8 mb-5 w-full'>
+    <div className='header h-30 sm:h-40 flex items-end pl-6 sm:pl-8 pt-8 mb-5 w-full'>
         <div className=' flex items-end pl-8 pt-8 mb-5 w-full'>
-            <img src={src} className='w-[75px]'/>
-            <div className={`bngshde ${color} pl-3 text-7xl`}>{name}</div>
+            <img src={src} className='w-[40px] sm:w-[75px]'/>
+            <div className={`bngshde ${color} pl-3 text-3xl sm:text-7xl`}>{name}</div>
         </div>
         
     </div>
