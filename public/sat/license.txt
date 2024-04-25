@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ringed Gas Giant Planet
+* source:	https://sketchfab.com/3d-models/ringed-gas-giant-planet-b4e21775e84e4cf3890f7796cfab1aca
+* author:	berzerkey (https://sketchfab.com/berzerkey)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ringed Gas Giant Planet" (https://sketchfab.com/3d-models/ringed-gas-giant-planet-b4e21775e84e4cf3890f7796cfab1aca) by berzerkey (https://sketchfab.com/berzerkey) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

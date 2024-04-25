@@ -1,0 +1,58 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .galaxy {
+    position: relative;
+    width: 300px; /* Adjust size of galaxy */
+    height: 300px; /* Adjust size of galaxy */
+  }
+  
+  .central-planet, .orbit-cont {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .planet1 {
+    position: absolute;
+    left: 0%;
+    cursor: pointer;
+  }
+  .planet2 {
+    position: absolute;
+    right: 0%;
+    cursor: pointer;
+  }
+  .planet3 {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    cursor: pointer;
+  }
+
+  .orbit-cont{
+    width: 60%;
+    height: 60%;
+    
+  }
+
+  .orbit{
+    animation: orbit 20s linear infinite;
+  }
+
+
+
+  @keyframes orbit{
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

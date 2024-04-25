@@ -1,0 +1,11 @@
+Model Information:
+* title:	User (3D Icon)
+* source:	https://sketchfab.com/3d-models/user-3d-icon-fb62ede37af14b43887b4ea079f491b7
+* author:	Alexander (https://sketchfab.com/pravdin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "User (3D Icon)" (https://sketchfab.com/3d-models/user-3d-icon-fb62ede37af14b43887b4ea079f491b7) by Alexander (https://sketchfab.com/pravdin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
